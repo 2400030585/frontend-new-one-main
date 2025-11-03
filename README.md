@@ -18,4 +18,4 @@ Book appointments with form validation
 View appointments as cards
 Cancel appointments
 Edit existing appointments
-Responsive layout (mobile-friendly)"# frontend-new-one-main" 
+Responsive layout (mobile-friendly)
